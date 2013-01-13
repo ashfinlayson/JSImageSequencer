@@ -68,5 +68,7 @@ totalDigits:	(int) Total number of digits in the image file name numberie. my-se
 		
 Notes
 ================
-Undefined values must be set		
+Undefined values must be set... For now - I'm working on this
+
+For any questions, comments or criticisms please contact ash@ashfinlayson.info 
 
